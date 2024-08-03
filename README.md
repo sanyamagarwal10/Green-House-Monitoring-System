@@ -14,7 +14,7 @@ This project combined hardware and simulation tools to create a robust system fo
  # Technologies Used:
 ~Hardware: Arduino Uno, DHT11 temperature and humidity sensor, soil moisture sensor, relays for control.
 
-~Software: Arduino IDE for programming the Arduino Uno, PSpice for circuit simulation and testing.
+~Software: Arduino IDE for programming the Arduino Uno, Proteus 8 Professional for circuit simulation and testing.
 
 ~Communication Protocols: Used serial communication for data transfer between sensors and the Arduino.
 
