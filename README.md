@@ -18,3 +18,5 @@ This project combined hardware and simulation tools to create a robust system fo
 
 ~Communication Protocols: Used serial communication for data transfer between sensors and the Arduino.
 
+# Green House
+![Green House Circuit](https://github.com/user-attachments/assets/6c9e453d-3003-4c1a-bb94-ed880861afc4)
