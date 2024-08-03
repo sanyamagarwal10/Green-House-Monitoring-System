@@ -1,5 +1,5 @@
 # Green-House-Monitoring-System
-Developed a Greenhouse Monitoring System using Arduino Uno and PSpice to ensure optimal growing conditions for plants.
+Developed a Greenhouse Monitoring System using Arduino Uno and Proteus 8 Professional to ensure optimal growing conditions for plants.
 This project combined hardware and simulation tools to create a robust system for real-time environmental monitoring and control.
 
 # Key Features:
