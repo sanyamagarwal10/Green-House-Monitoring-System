@@ -17,3 +17,4 @@ This project combined hardware and simulation tools to create a robust system fo
 ~Software: Arduino IDE for programming the Arduino Uno, PSpice for circuit simulation and testing.
 
 ~Communication Protocols: Used serial communication for data transfer between sensors and the Arduino.
+![Screenshot (32)](https://github.com/user-attachments/assets/8d5a8cb5-cc1c-4c4d-ab41-3057d5bdfa49)
