@@ -15,11 +15,10 @@ This project is ideal for IoT, automation, and smart farming applications, helpi
 - 𝗦𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻-𝗥𝗲𝗮𝗱𝘆: Fully simulated in Proteus 8 Professional, making it easy to visualize and test the system before actual deployment.
 
  # Technologies Used:
-• Hardware: Arduino Uno, DHT11 temperature and humidity sensor, soil moisture sensor, relays for control.
-
-• Software: Arduino IDE for programming the Arduino Uno, Proteus 8 Professional for circuit simulation and testing.
-
-• Communication Protocols: Used serial communication for data transfer between sensors and the Arduino.
+ 
+- Hardware: Arduino Uno, DHT11 temperature and humidity sensor, soil moisture sensor, relays for control.
+- Software: Arduino IDE for programming the Arduino Uno, Proteus 8 Professional for circuit simulation and testing.
+- Communication Protocols: Used serial communication for data transfer between sensors and the Arduino.
 
 # Green House  Setup
 ![Green House Circuit](https://github.com/user-attachments/assets/6c9e453d-3003-4c1a-bb94-ed880861afc4)
