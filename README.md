@@ -49,6 +49,3 @@ This project is ideal for IoT, automation, and smart farming applications, helpi
 - Data Logging: Record historical sensor data for long-term analysis and optimization.
 - Smart Control: Automate climate control (e.g., fans, heaters) based on sensor data for fully autonomous greenhouse management.
 
- ## License 
-
-This project is licensed under the MIT License. See the LICENSE file for more information.
