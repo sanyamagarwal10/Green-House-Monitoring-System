@@ -16,12 +16,12 @@ This project is ideal for IoT, automation, and smart farming applications, helpi
 
   # Components List
   
-  1.Arduino Uno: Microcontroller to process the sensor data.
-  2.DHT11 Sensor: For measuring temperature and humidity.
-  3.Soil Moisture Sensor: To monitor soil moisture levels.
-  4.16x2 LCD Display: For displaying real-time data.
-  5.Proteus 8 Professional: Simulation tool to validate the system design.
-  6.Resistors, Wires, Breadboard: Basic electronic components for connections.
+  1. Arduino Uno: Microcontroller to process the sensor data.
+  2. DHT11 Sensor: For measuring temperature and humidity.
+  3. Soil Moisture Sensor: To monitor soil moisture levels.
+  4. 16x2 LCD Display: For displaying real-time data.
+  5. Proteus 8 Professional: Simulation tool to validate the system design.
+  6. Resistors, Wires, Breadboard: Basic electronic components for connections.
 
 
  # Technologies Used:
